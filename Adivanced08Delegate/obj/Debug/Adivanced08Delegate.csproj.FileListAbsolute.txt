@@ -1,0 +1,6 @@
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\bin\Debug\Adivanced08Delegate.exe.config
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\bin\Debug\Adivanced08Delegate.exe
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\bin\Debug\Adivanced08Delegate.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\obj\Debug\Adivanced08Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\obj\Debug\Adivanced08Delegate.exe
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\Android\Adivanced08Delegate\Adivanced08Delegate\obj\Debug\Adivanced08Delegate.pdb
